@@ -1,1 +1,1 @@
-# Game
+A simple tic-tac-toe game with basic functions such as a win detector, a tie detector, a player-switching mechanic, a user input detector, and a string replacement mechanic.
